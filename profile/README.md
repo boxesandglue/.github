@@ -14,7 +14,7 @@ boxes and glue is under active development. The base is rather stable but the HT
 | [textlayout](https://github.com/boxesandglue/textlayout) ([forked](https://github.com/benoitkugler/textlayout)) | Text shaping                      | good but obsolete |
 | [textshape](https://github.com/boxesandglue/textshape)                                                          | Text shaping                      | Work in progress  |
 | [gofpdi](https://github.com/boxesandglue/gofpdi) ([forked](https://github.com/phpdave11/gofpdi))                | PDF inclusion                     | good              |
-| [cli](https://github.com/boxesandglue/cli)                                                                      | Command line interface            | just started      |
+| [glu](https://github.com/boxesandglue/glu)                                                                      | Command line interface            | works             |
 | [bagme](https://github.com/boxesandglue/bagme)                                                                  | Easy to use HTML frontend         | working on it     |
 | [htmlbag](https://github.com/boxesandglue/htmlbag)                                                              | HTML to boxes and glue conversion | working on it     |
 
